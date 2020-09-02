@@ -7,9 +7,10 @@
             },
             "includePath": [
                 "/opt/ros/melodic/include/**",
-                "/home/mach3/vio_ws/src/comp_features/include/**",
+                "/home/mach3/vio_ws/src/visual_slam/comp_features/include/**",
                 "/usr/include/**",
-                "/usr/local/include/opencv4"
+                "/usr/local/include/opencv4",
+                "/opt/ros/melodic/include"
             ],
             "name": "ROS",
             "intelliSenseMode": "gcc-x64",
